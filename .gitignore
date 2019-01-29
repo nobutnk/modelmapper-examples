@@ -1,6 +1,7 @@
 # Eclipse
 .settings/
 bin/
+target/
 logs/
 .project
 .classpath
